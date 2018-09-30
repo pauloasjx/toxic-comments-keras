@@ -1,2 +1,6 @@
 **/data
 **/cache
+.ftpconfig
+__pycache__/
+best_model.hdf5
+**/.ipynb_checkpoints/
